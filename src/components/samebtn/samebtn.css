@@ -1,0 +1,11 @@
+.btns{
+    height: 35px;
+    width: 80%;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    color: white;
+    font-family:inter-regular;
+    font-size: 10px;
+    cursor: pointer;
+}
